@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Example1: Home renders homepage unchanged 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <main>
+      <h1
+        class="title"
+      >
+        Testing Library React Examples
+      </h1>
+      <pre>
+        <code>
+          cd app_dir; yarn test
+        </code>
+      </pre>
+    </main>
+  </div>
+</div>
+`;

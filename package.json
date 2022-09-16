@@ -8,9 +8,13 @@
     "test:ci": "jest --ci"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^1.8.5",
+    "axios": "^0.27.2",
+    "msw": "^0.47.3",
     "next": "latest",
     "react": "^18.1.0",
-    "react-dom": "^18.1.0"
+    "react-dom": "^18.1.0",
+    "react-redux": "^8.0.2"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "5.16.4",
